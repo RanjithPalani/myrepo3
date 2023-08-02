@@ -1,2 +1,4 @@
 java has polymorphism concept
 edited by ranjith
+its includes other concepts like inheritance,interface
+
